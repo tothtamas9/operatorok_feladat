@@ -39,7 +39,6 @@ namespace operatorok_feladat
             {
                 Console.WriteLine("nincs");
             }
-
         }
     }
 }
